@@ -30,6 +30,7 @@ input {
   border: 0;
   background: #eee;
   display: block;
+  width: 100%;
 }
 
 button {
